@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\demsvthido\bin\Debug\netcoreapp3.1\demsvthido.exe
+C:\Users\admin\source\repos\demsvthido\bin\Debug\netcoreapp3.1\demsvthido.deps.json
+C:\Users\admin\source\repos\demsvthido\bin\Debug\netcoreapp3.1\demsvthido.runtimeconfig.json
+C:\Users\admin\source\repos\demsvthido\bin\Debug\netcoreapp3.1\demsvthido.runtimeconfig.dev.json
+C:\Users\admin\source\repos\demsvthido\bin\Debug\netcoreapp3.1\demsvthido.dll
+C:\Users\admin\source\repos\demsvthido\bin\Debug\netcoreapp3.1\demsvthido.pdb
+C:\Users\admin\source\repos\demsvthido\obj\Debug\netcoreapp3.1\demsvthido.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\demsvthido\obj\Debug\netcoreapp3.1\demsvthido.AssemblyInfo.cs
+C:\Users\admin\source\repos\demsvthido\obj\Debug\netcoreapp3.1\demsvthido.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\demsvthido\obj\Debug\netcoreapp3.1\demsvthido.dll
+C:\Users\admin\source\repos\demsvthido\obj\Debug\netcoreapp3.1\demsvthido.pdb
+C:\Users\admin\source\repos\demsvthido\obj\Debug\netcoreapp3.1\demsvthido.genruntimeconfig.cache
